@@ -1,0 +1,6 @@
+﻿<?xml version="1.0"?>
+<targets>
+  <target key ="DB" value="HelloWorldAPI.WriteToDbStrategy"/>
+  <target key ="FILE" value="HelloWorldAPI.WriteToFileStrategy"/>
+  <target key ="CONSOLE" value ="HelloWorldAPI.WriteToConsoleStrategy"/>
+</targets>
